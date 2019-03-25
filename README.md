@@ -1,5 +1,7 @@
 # Claim-Registration-RPA
 Insurance Claim Registartion
+## Demo video
+https://drive.google.com/file/d/1u_RHvEjEbF8VUjR6ZgTO6PrOjBxVp0d4/view
 
 ## Problem Statement
 Many insurance companies are struggling to process large number of claim requests, as this is a repeated task for the customer support executives for processing big set of claims.To solve this problem we are using RPA automation to register multiple  claims for immediate processing in general insurance(Motor vehicle,Health,Property).
