@@ -35,15 +35,9 @@ The input policy no from the excel file is fetched and it is checked for Black l
 The input policy number is checked for separating the property policy no so that it can processed in different process that is after fetching the input policy no of property policy number it is checked for Black List(Insurer Holder) from another excel file which cotains the policy details and Black list details. Since the property policy requier manual verification from a customer executive to confirm the damage of the property the eligibe policy holder from the client request are listed in new excel file and the new excel file will be sent as mail to the customer executive who verify the property.
 
 ## Project Status
-- Image Scraping (Working Successfully)
-- Motor Policy Registration(90% Completed)
-- Cross Product Registration((90% Completed)
-- Health Policy Registration(90% Completed)
-- Property Policy Registration(50% Completed)
+- Image Scraping
+- Motor Policy Registration
+- Cross Product Registration
+- Health Policy Registration
+- Property Policy Registration
 
-## Pending Works
-- Image Scraping (None)
-- Motor Policy Registration (Mail Drafting)
-- Cross Product Registration (Mail Drafting)
-- Health Policy Registration (Mail Drafting)
-- Property Policy Registration (Mail automation and Excel Automation)
